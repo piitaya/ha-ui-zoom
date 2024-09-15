@@ -57,12 +57,4 @@ To add custom repositories please follow [this guide](https://hacs.xyz/docs/faq/
        - /local/ha-ui-zoom.js
    ```
 
-4. (Optional) YAML mode users. Add the following to your lovelace configuration using the Raw Config editor under Configure UI or ui-lovelace.yaml.
-
-   ```yaml
-   resources:
-     - type: js
-       url: /local/ha-ui-zoom.js
-   ```
-
 5. Restart Home Assistant.

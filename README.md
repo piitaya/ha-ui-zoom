@@ -24,7 +24,9 @@ We recommend installing Home Assistant UI zoom via [Home Assistant Community Sto
 This integration can be added to HACS as a custom repository:
 
 URL: https://github.com/piitaya/ha-ui-zoom
-Category: Dashboard
+
+**Category**: Dashboard
+
 After adding a custom repository you can use HACS to install this integration using user interface.
 
 [![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=piitaya&repository=ha-ui-zoom&category=frontend)

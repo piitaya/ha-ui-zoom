@@ -31,20 +31,12 @@ After adding a custom repository you can use HACS to install this integration us
 
 After installing through HACS:
 
-1. Add the following lines to your `configuration.yaml`
+Add the following lines to your `configuration.yaml`
 
    ```yaml
    frontend:
      extra_module_url:
        - /local/community/ha-ui-zoom/ha-ui-zoom.js
-   ```
-
-2. (Optional) YAML mode users. Add the following to your lovelace configuration using the Raw Config editor under Configure UI or ui-lovelace.yaml.
-
-   ```yaml
-   resources:
-     - type: js
-       url: /local/community/ha-ui-zoom/ha-ui-zoom.js
    ```
 
 #### Manual Installation

@@ -1,6 +1,9 @@
-# Home Assistant UI Zoom
+# Home Assistant UI Zoom 🔍
 
 Apply global zoom to Home Assistant UI
+
+> [!WARNING]  
+> You may have some issues by using some element of the Home Assistant (e.g. slider interaction). Use it carefully.
 
 # Usage
 

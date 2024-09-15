@@ -6,7 +6,7 @@ Apply global zoom to Home Assistant UI
 
 Home Assistant UI Zoom allows you to zoom your Home Assistant using themes. It can be useful if you want bigger interface (e.g. on Tesla screen).
 
-After installing Home Assistant UI zoom, just adds `ha-ui-zoom` variable in your theme to customize the global zoom
+After installing Home Assistant UI zoom, just add `ha-ui-zoom` variable in your theme to customize the global zoom
 
 **Example of theme :**
 
@@ -20,6 +20,13 @@ my_theme:
 #### HACS
 
 We recommend installing Home Assistant UI zoom via [Home Assistant Community Store](https://hacs.xyz)
+
+This integration can be added to HACS as a custom repository:
+
+URL: https://github.com/piitaya/ha-ui-zoom
+Category: Dashboard
+After adding a custom repository you can use HACS to install this integration using user interface.
+
 [![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=piitaya&repository=ha-ui-zoom&category=frontend)
 
 After installing through HACS:
